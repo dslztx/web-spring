@@ -1,0 +1,19 @@
+X-Account-Key: account12
+X-UIDL: 1tbiBQAHBlt76ASYdAAAsk
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from [10.0.2.195] (unknown [25.236.119.131])
+To: dslztx@not.email.com
+From: dslztx <dslztx@not.email.com>
+Subject: Test Subject
+Date: Thu, 24 Feb 2022 13:30:00 +0800
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101
+ Thunderbird/68.10.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=gbk; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Language: en-US
+X-CM-TRANSID:aIG_CgA3EDbYFxdilOZHAA--.10395S2
+
+Test Content
